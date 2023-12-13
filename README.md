@@ -1,7 +1,8 @@
 # Reloj Digital con JavaScript.
 
 Proyecto realizado como práctica del bootcamp de Tecnolochicas Pro Proyectos.
-![Captura de mi Reloj Digital]()
+
+![Captura de mi Reloj Digital](relojdigital.png)
 
 ## ¿Qué construí?
 
